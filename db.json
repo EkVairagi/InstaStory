@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "username": "1",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+1+Image+1",
+        "username": "John Doe",
+        "userProfile": "https://randomuser.me/api/portraits/men/1.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+1+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+1+Image+2",
@@ -12,8 +12,8 @@
     },
     {
         "id": "2",
-        "username": "2",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+2+Image+1",
+        "username": "Jane Smith",
+        "userProfile": "https://randomuser.me/api/portraits/women/2.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+2+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+2+Image+2"
@@ -22,8 +22,8 @@
     },
     {
         "id": "3",
-        "username": "3",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+3+Image+1",
+        "username": "Alice Johnson",
+        "userProfile": "https://randomuser.me/api/portraits/women/3.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+3+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+3+Image+2",
@@ -34,8 +34,8 @@
     },
     {
         "id": "4",
-        "username": "4",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+4+Image+1",
+        "username": "Bob Brown",
+        "userProfile": "https://randomuser.me/api/portraits/men/4.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+4+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+4+Image+2",
@@ -46,8 +46,8 @@
     },
     {
         "id": "5",
-        "username": "5",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+5+Image+1",
+        "username": "Charlie Davis",
+        "userProfile": "https://randomuser.me/api/portraits/men/5.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+5+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+5+Image+2",
@@ -58,8 +58,8 @@
     },
     {
         "id": "6",
-        "username": "6",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+6+Image+1",
+        "username": "Diana Evans",
+        "userProfile": "https://randomuser.me/api/portraits/women/6.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+6+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+6+Image+2",
@@ -70,8 +70,8 @@
     },
     {
         "id": "7",
-        "username": "7",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+7+Image+1",
+        "username": "Ethan Ford",
+        "userProfile": "https://randomuser.me/api/portraits/men/7.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+7+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+7+Image+2",
@@ -82,8 +82,8 @@
     },
     {
         "id": "8",
-        "username": "8",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+8+Image+1",
+        "username": "Fiona Green",
+        "userProfile": "https://randomuser.me/api/portraits/women/8.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+8+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+8+Image+2",
@@ -94,8 +94,8 @@
     },
     {
         "id": "9",
-        "username": "9",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+9+Image+1",
+        "username": "George Harris",
+        "userProfile": "https://randomuser.me/api/portraits/men/9.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+9+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+9+Image+2",
@@ -106,8 +106,8 @@
     },
     {
         "id": "10",
-        "username": "3",
-        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+10+Image+1",
+        "username": "Hannah Ivanova",
+        "userProfile": "https://randomuser.me/api/portraits/women/10.jpg",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+10+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+10+Image+2",
