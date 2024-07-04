@@ -5,8 +5,8 @@
         "userProfile": "https://randomuser.me/api/portraits/men/1.jpg",
         "imageUrls": [
             "https://images.unsplash.com/photo-1547721064-da6cfb341d50",
-            "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6",
-            "https://images.unsplash.com/photo-1555685812-4b74353e7fc8"
+            "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+            "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
         ],
         "storyTimes": ["12hr", "3hr", "1hr"]
     },
@@ -14,9 +14,10 @@
         "id": "2",
         "username": "Jane Smith",
         "userProfile": "https://randomuser.me/api/portraits/women/2.jpg",
-        "imageUrls": [
-            "https://images.unsplash.com/photo-1488716820094-1b5e70ace6fd",
-            "https://images.unsplash.com/photo-1498611297740-f5d0852649a2"
+         "imageUrls": [
+            "https://images.unsplash.com/photo-1547721064-da6cfb341d50",
+            "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+            "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
         ],
         "storyTimes": ["12hr", "4hr"]
     },
@@ -26,8 +27,8 @@
         "userProfile": "https://randomuser.me/api/portraits/women/3.jpg",
         "imageUrls": [
             "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
-            "https://images.unsplash.com/photo-1518600506278-d93c79d5b775",
-            "https://images.unsplash.com/photo-1568030096077-ff2f46371e63",
+            "https://images.unsplash.com/photo-1547721064-da6cfb341d50",
+            "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
             "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
         ],
         "storyTimes": ["12hr", "3hr", "1hr", "3hr"]
@@ -38,8 +39,8 @@
         "userProfile": "https://randomuser.me/api/portraits/men/4.jpg",
         "imageUrls": [
             "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
-            "https://images.unsplash.com/photo-1506704440770-65599a36a0ab",
-            "https://images.unsplash.com/photo-1511765224389-37a6dcd2dfb9",
+            "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+            "https://images.unsplash.com/photo-1547721064-da6cfb341d50",
             "https://images.unsplash.com/photo-1541698444083-023c97d3f4b6"
         ],
         "storyTimes": ["12hr", "3hr", "1hr", "3hr"]
@@ -49,7 +50,7 @@
         "username": "Charlie Davis",
         "userProfile": "https://randomuser.me/api/portraits/men/5.jpg",
         "imageUrls": [
-            "https://images.unsplash.com/photo-1494879540387-5a53a9bfc9fb",
+            "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
             "https://images.unsplash.com/photo-1551766873-8d2319e258f5",
             "https://images.unsplash.com/photo-1512343460609-68192f3eaff2",
             "https://images.unsplash.com/photo-1519681393784-d120267933ba"
@@ -73,9 +74,9 @@
         "username": "Ethan Ford",
         "userProfile": "https://randomuser.me/api/portraits/men/7.jpg",
         "imageUrls": [
-            "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
-            "https://images.unsplash.com/photo-1541696601906-ff34aa14d057",
-            "https://images.unsplash.com/photo-1503264116251-35a269479413",
+            "https://images.unsplash.com/photo-1484704849700-f0329d2f08b1",
+            "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
+            "https://images.unsplash.com/photo-1523986371872-9d3ba2e2a389",
             "https://images.unsplash.com/photo-1531058020387-3be344556be6"
         ],
         "storyTimes": ["12hr", "3hr", "1hr", "3hr"]
@@ -86,7 +87,7 @@
         "userProfile": "https://randomuser.me/api/portraits/women/8.jpg",
         "imageUrls": [
             "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-            "https://images.unsplash.com/photo-1502767089025-6572583495b3",
+            "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
             "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
             "https://images.unsplash.com/photo-1504257432389-52343af06ae3"
         ],
@@ -97,8 +98,8 @@
         "username": "George Harris",
         "userProfile": "https://randomuser.me/api/portraits/men/9.jpg",
         "imageUrls": [
-            "https://images.unsplash.com/photo-1511164629-4f59f96d3b33",
-            "https://images.unsplash.com/photo-1517777170479-9bdbf5a63900",
+            "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+            "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
             "https://images.unsplash.com/photo-1511407397940-d57f68e81203",
             "https://images.unsplash.com/photo-1514525253161-7a46d19cd819"
         ],
@@ -109,10 +110,10 @@
         "username": "Hannah Ivanova",
         "userProfile": "https://randomuser.me/api/portraits/women/10.jpg",
         "imageUrls": [
-            "https://images.unsplash.com/photo-1483425571841-9662f86c477f",
-            "https://images.unsplash.com/photo-1517106171622-69ed75e55a44",
-            "https://images.unsplash.com/photo-1485206412256-701ccc8d55b9",
-            "https://images.unsplash.com/photo-1487029413235-e3f7a02e01ad"
+            "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+            "https://images.unsplash.com/photo-1547721064-da6cfb341d50",
+            "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+            "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
         ],
         "storyTimes": ["12hr", "3hr", "1hr", "3hr"]
     }
