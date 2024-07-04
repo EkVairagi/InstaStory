@@ -47,7 +47,7 @@
     {
         "id": "5",
         "username": "5",
-        "imageUrl": "https://via.placeholder.com/300x500.png?text=Story+5+Image+1",
+        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+5+Image+1",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+5+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+5+Image+2",
@@ -71,7 +71,7 @@
     {
         "id": "7",
         "username": "7",
-        "imageUrl": "https://via.placeholder.com/300x500.png?text=Story+7+Image+1",
+        "userProfile": "https://via.placeholder.com/300x500.png?text=Story+7+Image+1",
         "imageUrls": [
             "https://via.placeholder.com/300x500.png?text=Story+7+Image+1",
             "https://via.placeholder.com/300x500.png?text=Story+7+Image+2",
